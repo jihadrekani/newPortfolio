@@ -37,26 +37,26 @@ function App() {
 
 
         {/* my skills */}
-        <div className='bg-sky-800 py-4 container mx-auto '>
+        <div className='bg-sky-800 py-4 px-3 container mx-auto '>
  <div className=' flex items-center mb-3'>
   <label className='mx-4 font-bold text-yellow-600 w-[120px]'>HTML</label>
         <div className="w-full bg-gray-200 rounded-full h-8 ">
-  <div className="bg-yellow-600 text-xs font-medium text-blue-100 text-center flex items-center justify-center p-0.5 leading-none rounded-l-full h-8" style={{'width': "25%"}}> 25%</div>
+  <div className="bg-yellow-600 text-xs font-medium text-blue-100 text-center flex items-center justify-center p-0.5 leading-none rounded-r-full h-8" style={{'width': "97%"}}> 97%</div>
 </div>
 </div>
 
-
+ 
 <div className=' flex items-center mb-3'>
   <label className='mx-4 font-bold text-yellow-600 w-[120px]'>CSS</label>
         <div className="w-full bg-gray-200 rounded-full h-8 ">
-  <div className="bg-yellow-600 text-xs font-medium text-blue-100 text-center flex items-center justify-center p-0.5 leading-none rounded-l-full h-8" style={{'width': "25%"}}> 25%</div>
+  <div className="bg-yellow-600 text-xs font-medium text-blue-100 text-center flex items-center justify-center p-0.5 leading-none rounded-r-full h-8" style={{'width': "90%"}}> 90%</div>
 </div>
 </div>
 
 <div className=' flex items-center mb-3'>
   <label className='mx-4 font-bold text-yellow-600 w-[120px]'>JAVASCRIPT</label>
         <div className="w-full bg-gray-200 rounded-full h-8">
-  <div className="bg-yellow-600 text-xs font-medium text-blue-100 text-center flex items-center justify-center p-0.5 leading-none rounded-l-full h-8" style={{'width': "25%"}}> 25%</div>
+  <div className="bg-yellow-600 text-xs font-medium text-blue-100 text-center flex items-center justify-center p-0.5 leading-none rounded-r-full h-8" style={{'width': "70%"}}> 70%</div>
 </div>
 </div>
 
@@ -65,7 +65,7 @@ function App() {
 <div className=' flex items-center mb-3'>
   <label className='mx-4 font-bold text-yellow-600 w-[120px]'>Bootstrap</label>
         <div className="w-full bg-gray-200 rounded-full h-8">
-  <div className="bg-yellow-600 text-xs font-medium text-blue-100 text-center flex items-center justify-center p-0.5 leading-none rounded-l-full h-8" style={{'width': "25%"}}> 25%</div>
+  <div className="bg-yellow-600 text-xs font-medium text-blue-100 text-center flex items-center justify-center p-0.5 leading-none rounded-r-full h-8" style={{'width': "85%"}}> 85%</div>
 </div>
 </div>
 
@@ -79,7 +79,7 @@ function App() {
 <div className=' flex items-center mb-3'>
   <label className='mx-4 font-bold text-yellow-600 w-[120px]'>React JS</label>
         <div className="w-full bg-gray-200 rounded-full h-8">
-  <div className="bg-yellow-600 text-xs font-medium text-blue-100 text-center flex items-center justify-center p-0.5 leading-none rounded-l-full h-8" style={{'width': "25%"}}> 25%</div>
+  <div className="bg-yellow-600 text-xs font-medium text-blue-100 text-center flex items-center justify-center p-0.5 leading-none rounded-r-full h-8" style={{'width': "70%"}}> 70%</div>
 </div>
 </div>
 
@@ -91,7 +91,7 @@ function App() {
 <div className=' flex items-center mb-3'>
   <label className='mx-4 font-bold text-yellow-600 w-[120px]'>Tailwind CSS</label>
         <div className="w-full bg-gray-200 rounded-full h-8">
-  <div className="bg-yellow-600 text-xs font-medium text-blue-100 text-center flex items-center justify-center p-0.5 leading-none rounded-l-full h-8" style={{'width': "25%"}}> 25%</div>
+  <div className="bg-yellow-600 text-xs font-medium text-blue-100 text-center flex items-center justify-center p-0.5 leading-none rounded-r-full h-8" style={{'width': "90%"}}> 90%</div>
 </div>
 </div>
 
@@ -103,7 +103,7 @@ function App() {
 <div className=' flex items-center mb-3'>
   <label className='mx-4 font-bold text-yellow-600 w-[120px]'>Axios</label>
         <div className="w-full bg-gray-200 rounded-full h-8">
-  <div className="bg-yellow-600 text-xs font-medium text-blue-100 text-center flex items-center justify-center p-0.5 leading-none rounded-l-full h-8" style={{'width': "25%"}}> 25%</div>
+  <div className="bg-yellow-600 text-xs font-medium text-blue-100 text-center flex items-center justify-center p-0.5 leading-none rounded-r-full h-8" style={{'width': "75%"}}> 75%</div>
 </div>
 </div>
 
@@ -116,7 +116,7 @@ function App() {
   <label className='mx-4 font-bold text-yellow-600 w-[120px]'>Json
 </label>
         <div className="w-full bg-gray-200 rounded-full h-8">
-  <div className="bg-yellow-600 text-xs font-medium text-blue-100 text-center flex items-center justify-center p-0.5 leading-none rounded-l-full h-8" style={{'width': "25%"}}> 25%</div>
+  <div className="bg-yellow-600 text-xs font-medium text-blue-100 text-center flex items-center justify-center p-0.5 leading-none rounded-r-full h-8" style={{'width': "75%"}}> 75%</div>
 </div>
 </div>
 
@@ -129,7 +129,7 @@ function App() {
   <label className='mx-4 font-bold text-yellow-600 w-[120px]'>Redux Toolkit
 </label>
         <div className="w-full bg-gray-200 rounded-full h-8">
-  <div className="bg-yellow-600 text-xs font-medium text-blue-100 text-center flex items-center justify-center p-0.5 leading-none rounded-l-full h-8" style={{'width': "25%"}}> 25%</div>
+  <div className="bg-yellow-600 text-xs font-medium text-blue-100 text-center flex items-center justify-center p-0.5 leading-none rounded-r-full h-8" style={{'width': "55%"}}> 55%</div>
 </div>
 </div>
 
@@ -141,7 +141,7 @@ function App() {
 <div className=' flex items-center mb-3'>
   <label className='mx-4 font-bold text-yellow-600 w-[120px]'>Formik & Yup</label>
         <div className="w-full bg-gray-200 rounded-full h-8">
-  <div className="bg-yellow-600 text-xs font-medium text-blue-100 text-center flex items-center justify-center p-0.5 leading-none rounded-l-full h-8" style={{'width': "25%"}}> 25%</div>
+  <div className="bg-yellow-600 text-xs font-medium text-blue-100 text-center flex items-center justify-center p-0.5 leading-none rounded-r-full h-8" style={{'width': "60%"}}> 60%</div>
 </div>
 </div>
 
@@ -153,7 +153,7 @@ function App() {
 <div className=' flex items-center mb-3'>
   <label className='mx-4 font-bold text-yellow-600 w-[120px]'>Next.js</label>
         <div className="w-full bg-gray-200 rounded-full h-8">
-  <div className="bg-yellow-600 text-xs font-medium text-blue-100 text-center flex items-center justify-center p-0.5 leading-none rounded-l-full h-8" style={{'width': "25%"}}> 25%</div>
+  <div className="bg-yellow-600 text-xs font-medium text-blue-100 text-center flex items-center justify-center p-0.5 leading-none rounded-r-full h-8" style={{'width': "75%"}}> 75%</div>
 </div>
 </div>
 
@@ -165,7 +165,7 @@ function App() {
 <div className=' flex items-center mb-3'>
   <label className='mx-4 font-bold text-yellow-600 w-[120px]'>TypeScript</label>
         <div className="w-full bg-gray-200 rounded-full h-8">
-  <div className="bg-yellow-600 text-xs font-medium text-blue-100 text-center flex items-center justify-center p-0.5 leading-none rounded-l-full h-8" style={{'width': "25%"}}> 25%</div>
+  <div className="bg-yellow-600 text-xs font-medium text-blue-100 text-center flex items-center justify-center p-0.5 leading-none rounded-r-full h-8" style={{'width': "70%"}}> 70%</div>
 </div>
 </div>
 
@@ -177,7 +177,7 @@ function App() {
 <div className=' flex items-center mb-3'>
   <label className='mx-4 font-bold text-yellow-600 w-[120px]'>React Leaflet</label>
         <div className="w-full bg-gray-200 rounded-full h-8">
-  <div className="bg-yellow-600 text-xs font-medium text-blue-100 text-center flex items-center justify-center p-0.5 leading-none rounded-l-full h-8" style={{'width': "25%"}}> 25%</div>
+  <div className="bg-yellow-600 text-xs font-medium text-blue-100 text-center flex items-center justify-center p-0.5 leading-none rounded-r-full h-8" style={{'width': "80%"}}> 80%</div>
 </div>
 </div>
 
@@ -190,7 +190,7 @@ function App() {
   <label className='mx-4 font-bold text-yellow-600 w-[120px]'>Netlify Deploying
 </label>
         <div className="w-full bg-gray-200 rounded-full h-8">
-  <div className="bg-yellow-600 text-xs font-medium text-blue-100 text-center flex items-center justify-center p-0.5 leading-none rounded-l-full h-8" style={{'width': "25%"}}> 25%</div>
+  <div className="bg-yellow-600 text-xs font-medium text-blue-100 text-center flex items-center justify-center p-0.5 leading-none rounded-r-full h-8" style={{'width': "90%"}}> 90%</div>
 </div>
 </div>
 
@@ -203,7 +203,7 @@ function App() {
   <label className='mx-4 font-bold text-yellow-600 w-[120px]'>Github
 </label>
         <div className="w-full bg-gray-200 rounded-full h-8">
-  <div className="bg-yellow-600 text-xs font-medium text-blue-100 text-center flex items-center justify-center p-0.5 leading-none rounded-l-full h-8" style={{'width': "25%"}}> 25%</div>
+  <div className="bg-yellow-600 text-xs font-medium text-blue-100 text-center flex items-center justify-center p-0.5 leading-none rounded-r-full h-8" style={{'width': "88%"}}> 88%</div>
 </div>
 </div>
 
