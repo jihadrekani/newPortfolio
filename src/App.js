@@ -2,6 +2,7 @@ import './App.css';
 import { Routes, Route, Link } from "react-router-dom";
 import logo from "./images/jrjr.jpg";
 import Steps from "./components/Steps";
+import Projects from './components/Projects';
 
 function App() {
   return (
@@ -33,7 +34,6 @@ function App() {
         <Steps />
 
 
-        {/* <div className=' py-4 container mx-auto '> */}
 
 
         {/* my skills */}
@@ -212,7 +212,7 @@ function App() {
 
 </div>
 
-
+<Projects />
 
 </div>
   );
