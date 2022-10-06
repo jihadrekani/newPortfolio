@@ -2,13 +2,13 @@ import React from 'react'
 import { Link } from 'react-router-dom'
 import badiniimg from '../images/badini.jpg'
 import soraniimg from '../images/sorani.jpg'
-export default function Navnji() {
+export default function Amadeyi() {
   return (
     <div>
 
 <div className='grid grid-cols-2 container mx-auto space-x-1 mt-[80px]'>
 
-<Link to="NavnjiBadini">
+<Link to="AmadeyiBadini">
 <div className="flex flex-wrap justify-center">
   <img
   src={badiniimg}
@@ -18,7 +18,7 @@ export default function Navnji() {
 </div>
 </Link>
 
-<Link to="NavnjiSorani">
+<Link to="AmadeyiSorani">
 <div className="flex flex-wrap justify-center">
   <img
   src={soraniimg}
@@ -28,8 +28,6 @@ export default function Navnji() {
 </div>
 </Link>
 </div>
-
-
     </div>
   )
 }
