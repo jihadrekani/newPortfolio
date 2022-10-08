@@ -8,7 +8,7 @@ export default function Amadeyi() {
 
 <div className='grid grid-cols-2 container mx-auto space-x-1 mt-[80px]'>
 
-<Link to="AmadeyiBadini">
+<Link to="/AmadeyiBadini">
 <div className="flex flex-wrap justify-center">
   <img
   src={badiniimg}
@@ -18,7 +18,7 @@ export default function Amadeyi() {
 </div>
 </Link>
 
-<Link to="AmadeyiSorani">
+<Link to="/AmadeyiSorani">
 <div className="flex flex-wrap justify-center">
   <img
   src={soraniimg}

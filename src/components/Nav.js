@@ -38,9 +38,9 @@ export default function Nav() {
           <ul className="flex items-center hidden space-x-8 lg:flex">
 
           <Link 
-                to="Destpek"
+                to="/Destpek"
                 aria-label="Our product"
-                title="Our product"
+                // title="Our product"
                 className="mr-12 font-medium tracking-wide text-gray-100 transition-colors duration-200 hover:text-teal-accent-400"
               >
                   دەستپێک  
@@ -48,9 +48,9 @@ export default function Nav() {
             
             <li>
               <Link
-                to="Amadayi"
+                to="Amadeyi"
                 aria-label="Our product"
-                title="Our product"
+                // title="Our product"
                 className="font-medium tracking-wide text-gray-100 transition-colors duration-200 hover:text-teal-accent-400"
               >
 ئامادەیی
@@ -60,7 +60,7 @@ export default function Nav() {
               <Link
                 to="Navnji"
                 aria-label="Our product"
-                title="Our product"
+                // title="Our product"
                 className="font-medium tracking-wide text-gray-100 transition-colors duration-200 hover:text-teal-accent-400"
               >
                   ناڤنجـی  
@@ -70,7 +70,7 @@ export default function Nav() {
               <Link
                 to="Seretayi"
                 aria-label="Product pricing"
-                title="Product pricing"
+                // title="Product pricing"
                 className="font-medium tracking-wide text-gray-100 transition-colors duration-200 hover:text-teal-accent-400"
               >
 سەرەتایی</Link>
@@ -185,7 +185,7 @@ export default function Nav() {
                       </li>
                       <li>
                         <Link
-                          to="Destpek"
+                          to="/Destpek"
                           aria-label="About us"
                         //   title="About us"
                           className="font-medium tracking-wide text-gray-700 transition-colors duration-200 hover:text-deep-purple-accent-400"

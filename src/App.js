@@ -13,6 +13,15 @@ import AmadeyiBadini from './components/AmadeyiBadini'
 import AmadeyiSorani from './components/AmadeyiSorani'
 import Destpek from './components/Nav'
 import Sereki from './components/Nav'
+import Badini1 from './pages/Badini1';
+import Badini2 from './pages/Badini2';
+import Badini3 from './pages/Badini3';
+import Badini4 from './pages/Badini4';
+import Badini5 from './pages/Badini5';
+import Badini6 from './pages/Badini6';
+import Badini7 from './pages/Badini7';
+import Badini8 from './pages/Badini8';
+import Badini9 from './pages/Badini9';
 
 
 
@@ -34,6 +43,15 @@ function App() {
         <Route path="AmadeyiBadini" element={<AmadeyiBadini />} />
         <Route path="AmadeyiSorani" element={<AmadeyiSorani />} />
         <Route path="Sereki" element={<Sereki />} />
+        <Route path="Badini1" element={<Badini1 />} />
+        <Route path="Badini2" element={<Badini2 />} />
+        <Route path="Badini3" element={<Badini3 />} />
+        <Route path="Badini4" element={<Badini4 />} />
+        <Route path="Badini5" element={<Badini5 />} />
+        <Route path="Badini6" element={<Badini6 />} />
+        <Route path="Badini7" element={<Badini7 />} />
+        <Route path="Badini8" element={<Badini8 />} />
+        <Route path="Badini9" element={<Badini9 />} />
       </Routes>
 
 </div>
