@@ -2,7 +2,7 @@ import React from "react";
 import ayin from '../images/SeretayiBadini/pola7/ayin.jpg'
 import birkari from '../images/SeretayiBadini/pola7/birkari.jpg'
 import zanst from '../images/SeretayiBadini/pola7/zanst.jpg'
-import komelayeti from '../images/SeretayiBadini/pola6/komelayeti.jpg'
+import komelayeti from '../images/SeretayiBadini/pola7/komelayeti.jpg'
 import kurdi from '../images/SeretayiBadini/pola7/kurdi.jpg'
 import werzsh from '../images/SeretayiBadini/pola7/werzsh.jpg'
 import studentbook from '../images/SeretayiBadini/pola7/studentbook.jpg'
