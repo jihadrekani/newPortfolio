@@ -161,78 +161,7 @@ export default function SeretayiBadini() {
               </div>
           </div>
         </div>
-
-
-
-
-
-
 {/* ------------------------------------------------- */}
-
-
-<div className="rounded ">
-          <div className="flex justify-center ">
-            <Link to="/badini7">
-              
-                <img
-                  className="p-2 h-[400px] "
-                  src={pola7}
-                  alt=""
-                />
-                </Link>
-              <div className="p-6 flex items-center justify-center">
-            
-              </div>
-          </div>
-        </div>
-
-
-
-{/* ------------------------------------------------- */}
-
-
-<div className="rounded ">
-          <div className="flex justify-center ">
-            <Link to="/badini8">
-              
-                <img
-                  className="p-2 h-[400px]"
-                  src={pola8}
-                  alt=""
-                />
-                </Link>
-              <div className="p-6 flex items-center justify-center">
-             
-              </div>
-          </div>
-        </div>
-
-
-{/* ------------------------------------------------- */}
-
-
-<div className="rounded ">
-          <div className="flex justify-center ">
-            <Link to="/badini9">
-        
-                <img
-                  className="p-2 h-[400px]"
-                  src={pola9}
-                  alt=""
-                  />
-                  </Link>
-              <div className="p-6 flex items-center justify-center">
-               
-              </div>
-          </div>
-        </div>
-
-
-
-
-
-
-
       </div>
     </div>
   );

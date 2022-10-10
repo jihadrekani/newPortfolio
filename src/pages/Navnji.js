@@ -8,7 +8,7 @@ export default function Navnji() {
 
 <div className='grid grid-cols-2 container mx-auto space-x-1 mt-[80px]'>
 
-<Link to="NavnjiBadini">
+<Link to="/NavnjiBadini">
 <div className="flex flex-wrap justify-center">
   <img
   src={badiniimg}
@@ -18,7 +18,7 @@ export default function Navnji() {
 </div>
 </Link>
 
-<Link to="NavnjiSorani">
+<Link to="/NavnjiSorani">
 <div className="flex flex-wrap justify-center">
   <img
   src={soraniimg}
