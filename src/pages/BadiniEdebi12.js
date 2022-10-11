@@ -266,7 +266,7 @@ export default function BadiniEdebi12() {
         <div className="rounded ">
           <div className="flex justify-center ">
             <div className="rounded-lg shadow-lg max-w-sm bg-gray-900">
-                <p  className="bg-gray-300 rounded-t-md py-2 text-center"> پەروەردەیا ئیسڵامی و ئایینناسی</p>
+                <p  className="bg-gray-300 rounded-t-md py-2 text-center "> پەروەردەیا ئیسڵامی و ئایینناسی</p>
                 <img
                   className="p-2 h-[400px]"
                   src={ayin}

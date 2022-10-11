@@ -13,7 +13,7 @@ export default function Nav() {
           <Link
             to="/Destpek"
             aria-label="Company"
-            title="Company"
+            // title="Company"
             className="inline-flex items-center"
           >
             <svg
@@ -31,7 +31,7 @@ export default function Nav() {
               <rect x="14" y="1" width="7" height="6" />
               <rect x="14" y="11" width="7" height="12" />
             </svg>
-            <span className="mr-2 text-xl left font-bold tracking-wide text-gray-100 uppercase">
+            <span className="mr-2 nav-font text-xl left font-bold tracking-wide text-gray-100 uppercase">
             پەرتـوکخــانـا قوتابخـانـێ
             </span>
           </Link>
@@ -41,7 +41,7 @@ export default function Nav() {
                 to="/Destpek"
                 aria-label="Our product"
                 // title="Our product"
-                className="ml-12 font-medium tracking-wide text-gray-100 transition-colors duration-200 hover:text-teal-accent-400"
+                className="ml-12  font-medium tracking-wide text-gray-100 transition-colors duration-200 hover:text-teal-accent-400"
               >
                   دەستپێک  
               </Link>
