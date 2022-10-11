@@ -38,7 +38,7 @@ export default function AmadeyiBadini() {
 
 <div className="rounded ">
           <div className="flex justify-center ">
-            <Link to="/BadiniZansti">
+            <Link to="/BadiniEdebi">
               
                 <img
                   className="p-2 h-[400px]"

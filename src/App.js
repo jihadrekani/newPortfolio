@@ -12,7 +12,7 @@ import NavnjiSorani from './components/NavnjiSorani'
 import AmadeyiBadini from './components/AmadeyiBadini'
 import AmadeyiSorani from './components/AmadeyiSorani'
 import Destpek from './components/Nav'
-import Sereki from './components/Nav'
+// import Sereki from './components/Nav'
 import Badini1 from './pages/Badini1';
 import Badini2 from './pages/Badini2';
 import Badini3 from './pages/Badini3';
@@ -26,6 +26,10 @@ import BadiniZansti_10 from './pages/BadiniZansti_10';
 import BadiniZansti11 from './pages/BadiniZansti11';
 import BadiniZansti12 from './pages/BadiniZansti12';
 import BadiniZansti from './pages/BadiniZansti';
+import BadiniEdebi from './pages/BadiniEdebi';
+import BadiniEdebi10 from './pages/BadiniEdebi10';
+import BadiniEdebi11 from './pages/BadiniEdebi11';
+import BadiniEdebi12 from './pages/BadiniEdebi12';
 
 
 
@@ -47,7 +51,7 @@ function App() {
         <Route path="NavnjiSorani" element={<NavnjiSorani />} />
         <Route path="AmadeyiBadini" element={<AmadeyiBadini />} />
         <Route path="AmadeyiSorani" element={<AmadeyiSorani />} />
-        <Route path="Sereki" element={<Sereki />} />
+        {/* <Route path="Sereki" element={<Sereki />} /> */}
         <Route path="Badini1" element={<Badini1 />} />
         <Route path="Badini2" element={<Badini2 />} />
         <Route path="Badini3" element={<Badini3 />} />
@@ -61,6 +65,11 @@ function App() {
         <Route path="BadiniZansti11" element={<BadiniZansti11 />} />
         <Route path="BadiniZansti12" element={<BadiniZansti12 />} />
         <Route path="BadiniZansti" element={<BadiniZansti />} />
+        <Route path="BadiniEdebi" element={<BadiniEdebi />} />
+        <Route path="BadiniEdebi10" element={<BadiniEdebi10 />} />
+        <Route path="BadiniEdebi11" element={<BadiniEdebi11 />} />
+        <Route path="BadiniEdebi12" element={<BadiniEdebi12 />} />
+        
       </Routes>
 
 </div>
