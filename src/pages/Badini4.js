@@ -20,7 +20,7 @@ import ezdiyati from '../images/SeretayiBadini/pola3/ezdiyati.jpg'
 export default function Badini4() {
   return (
     <div className="">
-      <h2 className="text-center font-bold text-3xl mt-[50px] mb-5 text-sky-900">
+      <h2 className="text-center xl:text-3xl lg:text-3xl md:text-3xl sm:text-2xl xs  font-bold text-3xl mt-[50px] mb-5 text-sky-900">
       پەرتوکێن پولا چـارێ سەرەتایی
       </h2>
 

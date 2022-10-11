@@ -5,7 +5,7 @@ import soraniimg from '../images/sorani.jpg'
 export default function Seretayi() {
   return (
     <div>
-<div className='grid grid-cols-2 container mx-auto space-x-1 mt-[80px]'>
+<div className='grid grid-cols-2 xl:grid-cols2 lg:grid-cols-2 md:grid-cols-2 sm:grid-cols-1    container mx-auto space-x-1 mt-[80px]'>
 
 <Link to="/SeretayiBadini">
 <div className="flex flex-wrap justify-center">

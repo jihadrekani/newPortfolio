@@ -12,7 +12,6 @@ import NavnjiSorani from './components/NavnjiSorani'
 import AmadeyiBadini from './components/AmadeyiBadini'
 import AmadeyiSorani from './components/AmadeyiSorani'
 import Destpek from './components/Nav'
-// import Sereki from './components/Nav'
 import Badini1 from './pages/Badini1';
 import Badini2 from './pages/Badini2';
 import Badini3 from './pages/Badini3';
@@ -30,6 +29,24 @@ import BadiniEdebi from './pages/BadiniEdebi';
 import BadiniEdebi10 from './pages/BadiniEdebi10';
 import BadiniEdebi11 from './pages/BadiniEdebi11';
 import BadiniEdebi12 from './pages/BadiniEdebi12';
+// sorani
+import Sorani1 from './pages/Sorani1';
+import Sorani2 from './pages/Sorani2';
+import Sorani3 from './pages/Sorani3';
+import Sorani4 from './pages/Sorani4';
+import Sorani5 from './pages/Sorani5';
+import Sorani6 from './pages/Sorani6';
+import Sorani7 from './pages/Sorani7';
+import Sorani8 from './pages/Sorani8';
+import Sorani9 from './pages/Sorani9';
+import SoraniZansti10 from './pages/SoraniZansti10';
+import SoraniZansti11 from './pages/SoraniZansti11';
+import SoraniZansti12 from './pages/SoraniZansti12';
+import SoraniZansti from './pages/SoraniZansti';
+import SoraniEdebi from './pages/SoraniEdebi';
+import SoraniEdebi10 from './pages/SoraniEdebi10';
+import SoraniEdebi11 from './pages/SoraniEdebi11';
+import SoraniEdebi12 from './pages/SoraniEdebi12';
 
 
 

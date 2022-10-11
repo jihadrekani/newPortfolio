@@ -20,7 +20,7 @@ import englishactivity from "../images/SeretayiBadini/zansti11/englishactivity.j
 export default function BadiniZansti11() {
   return (
     <div className="">
-      <h2 className="text-center font-bold text-3xl mt-[50px] mb-5 text-sky-900">
+      <h2 className="text-center xl:text-3xl lg:text-3xl md:text-3xl sm:text-2xl xs  font-bold text-3xl mt-[50px] mb-5 text-sky-900">
       پەرتوکێن پولا یازدێ زانستی      </h2>
 
       <div className="container mx-auto grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 pt-6 gap-8">

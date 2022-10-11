@@ -16,8 +16,8 @@ import pola9 from '../images/poolbadini/pola9.jpg'
 
 export default function SeretayiBadini() {
   return (
-    <div className="">
-      <h2 className="text-center font-bold text-3xl mt-[50px] mb-5 text-sky-900">
+    <div className="container mx-auto">
+      <h2 className="text-center   font-bold text-3xl mt-[50px] mb-5 text-sky-900">
         پەرتوکێن قوتاغا سەرەتایی بادینـی
       </h2>
 
