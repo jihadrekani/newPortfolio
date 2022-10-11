@@ -22,7 +22,7 @@ import Badini6 from './pages/Badini6';
 import Badini7 from './pages/Badini7';
 import Badini8 from './pages/Badini8';
 import Badini9 from './pages/Badini9';
-// import BadiniZansti10 from './pages/BadiniZansti10';
+import BadiniZansti_10 from './pages/BadiniZansti_10';
 import BadiniZansti11 from './pages/BadiniZansti11';
 import BadiniZansti12 from './pages/BadiniZansti12';
 import BadiniZansti from './pages/BadiniZansti';
@@ -57,7 +57,7 @@ function App() {
         <Route path="Badini7" element={<Badini7 />} />
         <Route path="Badini8" element={<Badini8 />} />
         <Route path="Badini9" element={<Badini9 />} />
-        {/* <Route path="BadiniZansti10" element={<BadiniZansti10 />} /> */}
+        <Route path="BadiniZansti_10" element={<BadiniZansti_10 />} />
         <Route path="BadiniZansti11" element={<BadiniZansti11 />} />
         <Route path="BadiniZansti12" element={<BadiniZansti12 />} />
         <Route path="BadiniZansti" element={<BadiniZansti />} />

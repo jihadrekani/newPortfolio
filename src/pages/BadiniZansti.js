@@ -16,7 +16,7 @@ export default function BadiniZansti() {
 {/* ------------------------------------------------- */}
 <div className="rounded ">
 <div className="flex justify-center ">
-  <Link to="/badiniZansti10">
+  <Link to="/badiniZansti_10">
     
       <img
         className="p-2 h-[400px]"

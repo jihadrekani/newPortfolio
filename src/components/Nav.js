@@ -6,10 +6,10 @@ export default function Nav() {
     const [isMenuOpen, setIsMenuOpen] = useState(false);
 
     return (
-    <div>
-    <div className="bg-gray-900">
-      <div className="px-4 py-5 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8">
-        <div className="relative flex items-center justify-between">
+    <div className=''>
+    <div className="bg-gray-900 ">
+      <div className="px-4  py-5 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8">
+        <div className="relative  flex items-center justify-between">
           <Link
             to="sereki"
             aria-label="Company"
@@ -31,7 +31,7 @@ export default function Nav() {
               <rect x="14" y="1" width="7" height="6" />
               <rect x="14" y="11" width="7" height="12" />
             </svg>
-            <span className="ml-2 text-xl font-bold tracking-wide text-gray-100 uppercase">
+            <span className="mr-2 text-xl left font-bold tracking-wide text-gray-100 uppercase">
             پەرتـوکخــانـا قوتابخـانـێ
             </span>
           </Link>
@@ -41,7 +41,7 @@ export default function Nav() {
                 to="/Destpek"
                 aria-label="Our product"
                 // title="Our product"
-                className="mr-12 font-medium tracking-wide text-gray-100 transition-colors duration-200 hover:text-teal-accent-400"
+                className="ml-12 font-medium tracking-wide text-gray-100 transition-colors duration-200 hover:text-teal-accent-400"
               >
                   دەستپێک  
               </Link>
