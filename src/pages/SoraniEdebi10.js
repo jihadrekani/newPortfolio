@@ -11,6 +11,7 @@ import kurdi from "../images/SeretayiSorani/edebi10/kurdi.jpg"
 import maf from "../images/SeretayiSorani/edebi10/maf.jpg"
 import mezho from "../images/SeretayiSorani/edebi10/mezho.jpg"
 import ayin from "../images/SeretayiSorani/edebi10/ayin.jpg"
+import birkari from "../images/SeretayiSorani/edebi10/birkari.jpg"
 
 
 
@@ -283,7 +284,7 @@ export default function SoraniEdebi10() {
                 <p  className="bg-gray-300 rounded-t-md py-2 text-center">بیرکاری</p>
                 <img
                   className="p-2 h-[400px]"
-                  src={ayin}
+                  src={birkari}
                   alt=""
                 />
               <div className="p-6 flex items-center justify-center">
