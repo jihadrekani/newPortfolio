@@ -18,7 +18,7 @@ export default function SeretayiSorani() {
   return (
     <div className="container mx-auto">
       <h2 className="text-center   font-bold text-3xl mt-[50px] mb-5 text-sky-900">
-        پەرتوکێن قوتاغا سەرەتایی بادینـی
+        پەرتوکێن قوتاغا سەرەتایی - سورانى
       </h2>
 
 

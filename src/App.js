@@ -68,7 +68,6 @@ function App() {
         <Route path="NavnjiSorani" element={<NavnjiSorani />} />
         <Route path="AmadeyiBadini" element={<AmadeyiBadini />} />
         <Route path="AmadeyiSorani" element={<AmadeyiSorani />} />
-        {/* <Route path="Sereki" element={<Sereki />} /> */}
         <Route path="Badini1" element={<Badini1 />} />
         <Route path="Badini2" element={<Badini2 />} />
         <Route path="Badini3" element={<Badini3 />} />
@@ -86,7 +85,26 @@ function App() {
         <Route path="BadiniEdebi10" element={<BadiniEdebi10 />} />
         <Route path="BadiniEdebi11" element={<BadiniEdebi11 />} />
         <Route path="BadiniEdebi12" element={<BadiniEdebi12 />} />
-        
+        {/* sorani */}
+        <Route path="Sorani1" element={<Sorani1 />} />
+        <Route path="Sorani2" element={<Sorani2 />} />
+        <Route path="Sorani3" element={<Sorani3 />} />
+        <Route path="Sorani4" element={<Sorani4 />} />
+        <Route path="Sorani5" element={<Sorani5 />} />
+        <Route path="Sorani6" element={<Sorani6 />} />
+        <Route path="Sorani7" element={<Sorani7 />} />
+        <Route path="Sorani8" element={<Sorani8 />} />
+        <Route path="Sorani9" element={<Sorani9 />} />
+        <Route path="SoraniZansti10" element={<SoraniZansti10 />} />
+        <Route path="SoraniZansti11" element={<SoraniZansti10 />} />
+        <Route path="SoraniZansti12" element={<SoraniZansti10 />} />
+        <Route path="SoraniZansti" element={<SoraniZansti />} />
+        <Route path="SoraniEdebi" element={<SoraniEdebi />} />
+        <Route path="SoraniEdebi10" element={<SoraniEdebi10 />} />
+        <Route path="SoraniEdebi11" element={<SoraniEdebi11 />} />
+        <Route path="SoraniZansti12" element={<SoraniZansti12 />} />
+       
+
       </Routes>
 
 </div>
