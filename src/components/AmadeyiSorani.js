@@ -17,7 +17,7 @@ export default function AmadeyiSorani() {
 
 <div className="rounded ">
           <div className="flex justify-center ">
-            <Link to="/Soranizansti">
+            <Link to="/SoraniZansti">
               
                 <img
                   className="p-2 h-[400px] "

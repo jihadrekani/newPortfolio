@@ -96,8 +96,8 @@ function App() {
         <Route path="Sorani8" element={<Sorani8 />} />
         <Route path="Sorani9" element={<Sorani9 />} />
         <Route path="SoraniZansti10" element={<SoraniZansti10 />} />
-        <Route path="SoraniZansti11" element={<SoraniZansti10 />} />
-        <Route path="SoraniZansti12" element={<SoraniZansti10 />} />
+        <Route path="SoraniZansti11" element={<SoraniZansti11 />} />
+        <Route path="SoraniZansti12" element={<SoraniZansti12 />} />
         <Route path="SoraniZansti" element={<SoraniZansti />} />
         <Route path="SoraniEdebi" element={<SoraniEdebi />} />
         <Route path="SoraniEdebi10" element={<SoraniEdebi10 />} />

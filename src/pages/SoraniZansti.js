@@ -5,7 +5,7 @@ import pola12 from '../images/poolbadini/pola12.jpg'
 
 import { Link } from "react-router-dom";
 
-export default function SoraniEdebi() {
+export default function SoraniZansti() {
   return (
 
 
@@ -47,12 +47,6 @@ export default function SoraniEdebi() {
 </div>
 
 {/* ------------------------------------------------- */}
-
-
-
-
-
-
 
 <div className="rounded ">
 <div className="flex justify-center ">
