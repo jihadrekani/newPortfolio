@@ -1,6 +1,6 @@
 import './App.css';
 import { Routes, Route, Link } from "react-router-dom";
-
+import HeroSection from './components/HeroSection';
 import Nav from './components/Nav';
 import Amadeyi from './pages/Amadeyi';
 import Seretayi from './pages/Seretayi';
@@ -58,12 +58,12 @@ function App() {
 
 
 <Routes>
-        <Route path="/" element={<Destpek />} />
+        {/* <Route path="/" element={<Destpek />} /> */}
         <Route path="Amadeyi" element={<Amadeyi />} />
         <Route path="Navnji" element={<Navnji />} />
         <Route path="Seretayi" element={<Seretayi />} />
         <Route path="SeretayiSorani" element={<SeretayiSorani />} />
-        <Route path="/SeretayiBadini" element={<SeretayiBadini />} />
+        <Route path="SeretayiBadini" element={<SeretayiBadini />} />
         <Route path="NavnjiBadini" element={<NavnjiBadini />} />
         <Route path="NavnjiSorani" element={<NavnjiSorani />} />
         <Route path="AmadeyiBadini" element={<AmadeyiBadini />} />
@@ -106,7 +106,7 @@ function App() {
        
 
       </Routes>
-
+<HeroSection />
 </div>
   );
 }
