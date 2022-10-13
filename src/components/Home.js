@@ -3,13 +3,13 @@ import { Link } from "react-router-dom";
 import s from '../images/seretayi.jpg'
 import n from '../images/navnji.jpg'
 import a from '../images/amadeyi.jpg'
+import SocialMedia from "./SocialMedia";
 
 
 
 
 
-
-export default function HeroSection() {
+export default function Home() {
   return (
     <div className="">
       <h2 className="text-center font-bold text-3xl mt-[50px] mb-5 text-sky-900">
@@ -79,9 +79,8 @@ export default function HeroSection() {
 
 
 
-
-
       </div>
+      <SocialMedia />
       </div>
   );
 }

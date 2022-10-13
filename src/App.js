@@ -1,6 +1,14 @@
+import React from "react";
+import s from './images/seretayi.jpg'
+import n from './images/navnji.jpg'
+import a from './images/amadeyi.jpg'
+
+
+
+
+
 import './App.css';
 import { Routes, Route, Link } from "react-router-dom";
-import HeroSection from './components/HeroSection';
 import Nav from './components/Nav';
 import Amadeyi from './pages/Amadeyi';
 import Seretayi from './pages/Seretayi';
@@ -48,6 +56,9 @@ import SoraniEdebi10 from './pages/SoraniEdebi10';
 import SoraniEdebi11 from './pages/SoraniEdebi11';
 import SoraniEdebi12 from './pages/SoraniEdebi12';
 
+import Home from './components/Home'
+import SocialMedia from './components/SocialMedia';
+
 
 
 
@@ -55,10 +66,9 @@ function App() {
   return (
     <div className='' >
 <Nav />
-
-
 <Routes>
-        {/* <Route path="/" element={<Destpek />} /> */}
+        {/* <Route path="/" exact element={<Destpek />} /> */}
+        <Route path="/"  element={<Home />} />
         <Route path="Amadeyi" element={<Amadeyi />} />
         <Route path="Navnji" element={<Navnji />} />
         <Route path="Seretayi" element={<Seretayi />} />
@@ -103,11 +113,23 @@ function App() {
         <Route path="SoraniEdebi10" element={<SoraniEdebi10 />} />
         <Route path="SoraniEdebi11" element={<SoraniEdebi11 />} />
         <Route path="SoraniEdebi12" element={<SoraniEdebi12 />} />
+        <Route path="Home" element={<Home />} />
+        <Route path="SocialMedia" element={<SocialMedia />} />
+
+                  </Routes>
        
 
-      </Routes>
-<HeroSection />
-</div>
+
+
+
+
+
+
+
+
+
+      </div>
+
   );
 }
 
