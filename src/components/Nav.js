@@ -104,7 +104,7 @@ export default function Nav() {
                   <div className="flex items-center justify-between mb-4">
                     <div>
                       <Link
-                        to="/"
+                        to="Home"
                         aria-label="Company"
                         // title="Company"
                         className="inline-flex items-center"
@@ -179,7 +179,7 @@ export default function Nav() {
                       </li> */}
                       <li>
                         <Link
-                          to="/Destpek"
+                          to="Home"
                           aria-label="About us"
                         //   title="About us"
                          
