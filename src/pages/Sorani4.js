@@ -106,10 +106,10 @@ export default function Sorani4() {
           </div>
         </div>      
 {/* ------------------------------------------------- */}
-        <div className="rounded ">
+<div className="rounded ">
           <div className="flex justify-center ">
             <div className="rounded-lg shadow-lg max-w-sm bg-gray-900">
-                <p  className="bg-gray-300 rounded-t-md py-2 text-center">  Student's Book</p>
+                <p  className="bg-gray-300 rounded-t-md py-2 text-center">  English </p>
                 <img
                   className="p-2 h-[400px]"
                   src={Studentbook}
@@ -125,7 +125,7 @@ export default function Sorani4() {
               </div>
             </div>
           </div>
-        </div>
+        </div>     
 {/* ------------------------------------------------- */}
 <div className="rounded ">
           <div className="flex justify-center ">
