@@ -2,6 +2,8 @@ import React from "react";
 import pola10 from '../images/poolbadini/pola10.jpg'
 import pola11 from '../images/poolbadini/pola11.jpg'
 import pola12 from '../images/poolbadini/pola12.jpg'
+import Footer from '../components/Footer'
+
 
 import { Link } from "react-router-dom";
 
@@ -72,6 +74,7 @@ export default function BadiniEdebi() {
 {/* ------------------------------------------------- */}
 
 </div>
+<Footer />
 </div>
 
     

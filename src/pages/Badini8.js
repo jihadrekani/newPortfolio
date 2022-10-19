@@ -10,6 +10,7 @@ import englishactivity from '../images/SeretayiBadini/pola8/englishactivity.jpg'
 import ezdiyati from '../images/SeretayiBadini/pola8/ezdiyati.jpg'
 import computer from '../images/SeretayiBadini/pola8/computer.jpg'
 
+import Footer from '../components/Footer'
 
 
 
@@ -285,6 +286,7 @@ export default function Badini8() {
 
 
       </div>
+      <Footer />
     </div>
   );
 }

@@ -4,7 +4,7 @@ import s from '../images/seretayi.jpg'
 import n from '../images/navnji.jpg'
 import a from '../images/amadeyi.jpg'
 import SocialMedia from "./SocialMedia";
-
+import Footer from "./Footer";
 
 
 
@@ -81,6 +81,7 @@ export default function Home() {
 
       </div>
       <SocialMedia />
+      <Footer />
       </div>
   );
 }

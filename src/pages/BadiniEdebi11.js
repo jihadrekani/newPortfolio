@@ -10,6 +10,7 @@ import mezho from "../images/SeretayiBadini/edebi11/mezho.jpg"
 import ayin from "../images/SeretayiBadini/edebi11/ayin.jpg"
 import ezdiyati from "../images/SeretayiBadini/edebi11/ezdiyati.jpg"
 import felsefe from "../images/SeretayiBadini/edebi11/felsefe.jpg"
+import Footer from '../components/Footer'
 
 
 
@@ -258,6 +259,7 @@ export default function BadiniEdebi11() {
 
 
       </div>
+      <Footer />
     </div>
   );
 }

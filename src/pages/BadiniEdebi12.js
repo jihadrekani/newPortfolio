@@ -12,6 +12,7 @@ import arabipart1 from "../images/SeretayiBadini/edebi12/arabipart1.jpg"
 import arabipart2 from "../images/SeretayiBadini/edebi12/arabipart2.jpg"
 import kurdi2 from "../images/SeretayiBadini/edebi12/kurdi2.jpg"
 import birkari from "../images/SeretayiBadini/edebi12/birkari.jpg"
+import Footer from '../components/Footer'
 
 
 
@@ -308,6 +309,7 @@ export default function BadiniEdebi12() {
 
 
       </div>
+      <Footer />
     </div>
   );
 }

@@ -7,6 +7,8 @@ import zanstpart2 from '../images/SeretayiBadini/pola4/zanstpart2.jpg'
 import komelayeti from '../images/SeretayiBadini/pola4/komelayeti.jpg'
 import kurdi from '../images/SeretayiBadini/pola4/kurdi.jpg'
 import medeni from '../images/SeretayiBadini/pola4/medeni.jpg'
+import Footer from '../components/Footer'
+
 
 
 
@@ -333,6 +335,7 @@ export default function Badini4() {
 
 
       </div>
+      <Footer />
     </div>
   );
 }

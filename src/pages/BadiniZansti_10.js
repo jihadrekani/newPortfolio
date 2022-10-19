@@ -16,6 +16,7 @@ import englishactivity from "../images/SeretayiBadini/zansti10/englishactivity.j
 import jinosaid from "../images/SeretayiBadini/zansti10/jinosaid.jpg"
 import computer from "../images/SeretayiBadini/zansti10/computer.jpg"
 import maf from "../images/SeretayiBadini/zansti10/maf.jpg"
+import Footer from '../components/Footer'
 
 
 
@@ -388,6 +389,7 @@ export default function BadiniZansti_10() {
 
 
       </div>
+      <Footer />
     </div>
   );
 }

@@ -2,6 +2,7 @@ import React from 'react'
 import { Link } from 'react-router-dom'
 import badiniimg from '../images/badini.jpg'
 import soraniimg from '../images/sorani.jpg'
+import Footer from '../components/Footer'
 export default function Amadeyi() {
   return (
     <div>
@@ -28,6 +29,7 @@ export default function Amadeyi() {
 </div>
 </Link>
 </div>
+<Footer />
     </div>
   )
 }

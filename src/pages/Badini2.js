@@ -5,6 +5,7 @@ import ezdiyati from '../images/SeretayiBadini/pola2/ezdiyati.jpg'
 import ayin from '../images/SeretayiBadini/pola2/ayin.jpg'
 import englishactivity from '../images/SeretayiBadini/pola2/englishactivity.jpg'
 import studentbook from '../images/SeretayiBadini/pola2/studentbook.jpg'
+import Footer from '../components/Footer'
 
 export default function Badini2() {
   return (
@@ -187,6 +188,8 @@ export default function Badini2() {
 
 
       </div>
+      <Footer />
     </div>
   );
 }
+

@@ -2,6 +2,8 @@ import React from 'react'
 import { Link } from 'react-router-dom'
 import badiniimg from '../images/badini.jpg'
 import soraniimg from '../images/sorani.jpg'
+import Footer from '../components/Footer'
+
 export default function Navnji() {
   return (
     <div>
@@ -29,7 +31,7 @@ export default function Navnji() {
 </Link>
 </div>
 
-
+<Footer />
     </div>
   )
 }

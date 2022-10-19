@@ -11,6 +11,7 @@ import ezdiyati from '../images/SeretayiBadini/pola7/ezdiyati.jpg'
 import werzshimamosta from '../images/SeretayiBadini/pola7/werzshimamosta.jpg'
 import maf from '../images/SeretayiBadini/pola7/maf.jpg'
 import computer from '../images/SeretayiBadini/pola7/computer.jpg'
+import Footer from '../components/Footer'
 
 
 
@@ -330,6 +331,7 @@ export default function Badini7() {
 
 
       </div>
+      <Footer />
     </div>
   );
 }

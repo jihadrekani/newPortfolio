@@ -14,6 +14,7 @@ import ezdiyati from "../images/SeretayiBadini/zansti11/ezdiyati.jpg"
 import studentbook from "../images/SeretayiBadini/zansti11/studentbook.jpg"
 import englishactivity from "../images/SeretayiBadini/zansti11/englishactivity.jpg"
 
+import Footer from '../components/Footer'
 
 
 
@@ -328,6 +329,7 @@ export default function BadiniZansti11() {
 
 
       </div>
+      <Footer />
     </div>
   );
 }

@@ -12,6 +12,7 @@ import englishactivity from '../images/SeretayiBadini/pola5/englishactivity.jpg'
 import ezdiyati from '../images/SeretayiBadini/pola5/ezdiyati.jpg'
 import maf from '../images/SeretayiBadini/pola5/maf.jpg'
 
+import Footer from '../components/Footer'
 
 
 
@@ -360,6 +361,7 @@ export default function Badini5() {
 
 
       </div>
+      <Footer />
     </div>
   );
 }

@@ -8,6 +8,8 @@ import ayin from '../images/SeretayiBadini/ayin.jpg'
 import englishactivity from '../images/SeretayiBadini/englishactivity.jpg'
 import english from '../images/SeretayiBadini/english.jpg'
 import ezdiyati from '../images/SeretayiBadini/ezdiyati.jpg'
+import Footer from '../components/Footer'
+
 
 export default function Badini1() {
   return (
@@ -267,6 +269,7 @@ export default function Badini1() {
 
 
       </div>
+    <Footer />
     </div>
   );
 }

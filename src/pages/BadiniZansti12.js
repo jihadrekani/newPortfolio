@@ -16,6 +16,7 @@ import studentbook from "../images/SeretayiBadini/zansti12/studentbook.jpg"
 import englishactivity from "../images/SeretayiBadini/zansti12/englishactivity.jpg"
 import arabipart1 from "../images/SeretayiBadini/zansti12/arabipart1.jpg"
 import arabipart2 from "../images/SeretayiBadini/zansti12/arabipart2.jpg"
+import Footer from '../components/Footer'
 
 
 
@@ -393,6 +394,7 @@ export default function BadiniZansti12() {
 
 
       </div>
+      <Footer />
     </div>
   );
 }

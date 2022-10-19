@@ -7,6 +7,8 @@ import studentbook from '../images/SeretayiBadini/pola3/studentbook.jpg'
 import englishactivity from '../images/SeretayiBadini/pola3/englishactivity.jpg'
 import ayin from '../images/SeretayiBadini/pola3/ayin.jpg'
 import ezdiyati from '../images/SeretayiBadini/pola3/ezdiyati.jpg'
+import Footer from '../components/Footer'
+
 
 
 
@@ -248,6 +250,7 @@ export default function Badini3() {
 
 
       </div>
+      <Footer />
     </div>
   );
 }
