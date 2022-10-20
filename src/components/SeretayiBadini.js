@@ -6,9 +6,8 @@ import pola3 from '../images/poolbadini/pola3.jpg'
 import pola4 from '../images/poolbadini/pola4.jpg'
 import pola5 from '../images/poolbadini/pola5.jpg'
 import pola6 from '../images/poolbadini/pola6.jpg'
-import pola7 from '../images/poolbadini/pola7.jpg'
-import pola8 from '../images/poolbadini/pola8.jpg'
-import pola9 from '../images/poolbadini/pola9.jpg'
+
+import Footer from '../components/Footer'
 
 
 
@@ -16,7 +15,7 @@ import pola9 from '../images/poolbadini/pola9.jpg'
 
 export default function SeretayiBadini() {
   return (
-    <div className="container mx-auto">
+    <div className=" mx-auto">
       <h2 className="text-center   font-bold text-3xl mt-[50px] mb-5 text-sky-900">
         پەرتوکێن قوتاغا سەرەتایی بادینـی
       </h2>
@@ -163,6 +162,7 @@ export default function SeretayiBadini() {
         </div>
 {/* ------------------------------------------------- */}
       </div>
+      <Footer />
     </div>
   );
 }

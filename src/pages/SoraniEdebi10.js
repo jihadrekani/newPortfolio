@@ -12,6 +12,7 @@ import maf from "../images/SeretayiSorani/edebi10/maf.jpg"
 import mezho from "../images/SeretayiSorani/edebi10/mezho.jpg"
 import ayin from "../images/SeretayiSorani/edebi10/ayin.jpg"
 import birkari from "../images/SeretayiSorani/edebi10/birkari.jpg"
+import Footer from '../components/Footer'
 
 
 
@@ -299,6 +300,7 @@ export default function SoraniEdebi10() {
           </div>
         </div>
       </div>
+      <Footer />
     </div>
   );
 }

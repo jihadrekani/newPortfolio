@@ -7,6 +7,7 @@ import Studentbook from '../images/SeretayiSorani/pola3/Studentbook.jpg'
 import kurdi from '../images/SeretayiSorani/pola3/kurdi.jpg'
 import medeni from '../images/SeretayiSorani/pola3/medeni.jpg'
 import zanstrahenan from '../images/SeretayiSorani/pola3/zanstrahenan.jpg'
+import Footer from '../components/Footer'
 
 
 
@@ -198,6 +199,7 @@ export default function Sorani3() {
 
 
       </div>
+      <Footer />
     </div>
   );
 }

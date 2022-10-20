@@ -9,6 +9,7 @@ import maf from '../images/SeretayiSorani/pola5/maf.jpg'
 import zanstpart1 from '../images/SeretayiSorani/pola5/zanstpart1.jpg'
 import zanstpart2 from '../images/SeretayiSorani/pola5/zanstpart2.jpg'
 import komelayeti from '../images/SeretayiSorani/pola5/komelayeti.jpg'
+import Footer from '../components/Footer'
 
 
 
@@ -241,6 +242,7 @@ export default function Sorani5() {
 
 
       </div>
+      <Footer />
     </div>
   );
 }

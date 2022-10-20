@@ -3,6 +3,7 @@ import { Link } from "react-router-dom";
 import pola7 from '../images/poolbadini/pola7.jpg'
 import pola8 from '../images/poolbadini/pola8.jpg'
 import pola9 from '../images/poolbadini/pola9.jpg'
+import Footer from "./Footer";
 
 
 
@@ -87,6 +88,7 @@ export default function NavnjiBadini() {
 
 
       </div>
+      <Footer />
       </div>
   );
 }

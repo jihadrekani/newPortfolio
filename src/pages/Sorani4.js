@@ -9,6 +9,7 @@ import medeni from '../images/SeretayiSorani/pola4/medeni.jpg'
 import zanstpart1 from '../images/SeretayiSorani/pola4/zanstpart1.jpg'
 import zanstpart2 from '../images/SeretayiSorani/pola4/zanstpart2.jpg'
 import komelayeti from '../images/SeretayiSorani/pola4/komelayeti.jpg'
+import Footer from '../components/Footer'
 
 
 
@@ -241,6 +242,7 @@ export default function Sorani4() {
 
 
       </div>
+      <Footer />
     </div>
   );
 }

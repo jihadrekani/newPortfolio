@@ -10,6 +10,7 @@ import englishactivity from '../images/SeretayiSorani/pola8/englishactivity.jpg'
 import computer from '../images/SeretayiSorani/pola8/computer.jpg'
 import arabipart1 from '../images/SeretayiSorani/pola8/arabipart1.jpg'
 import arabipart2 from '../images/SeretayiSorani/pola8/arabipart2.jpg'
+import Footer from '../components/Footer'
 
 
 
@@ -298,6 +299,7 @@ export default function sorani8() {
 
 
       </div>
+      <Footer />
     </div>
   );
 }

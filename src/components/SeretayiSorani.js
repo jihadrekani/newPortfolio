@@ -9,6 +9,7 @@ import pola6 from '../images/poolbadini/pola6.jpg'
 import pola7 from '../images/poolbadini/pola7.jpg'
 import pola8 from '../images/poolbadini/pola8.jpg'
 import pola9 from '../images/poolbadini/pola9.jpg'
+import Footer from '../components/Footer'
 
 
 
@@ -156,6 +157,7 @@ export default function SeretayiSorani() {
         </div>
 {/* ------------------------------------------------- */}
       </div>
+      <Footer />
     </div>
   );
 }

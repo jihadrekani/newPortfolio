@@ -11,6 +11,7 @@ import maf from '../images/SeretayiSorani/pola7/maf.jpg'
 import computer from '../images/SeretayiSorani/pola7/computer.jpg'
 import arabipart1 from '../images/SeretayiSorani/pola7/arabipart1.jpg'
 import arabipart2 from '../images/SeretayiSorani/pola7/arabipart2.jpg'
+import Footer from '../components/Footer'
 
 
 
@@ -323,6 +324,7 @@ export default function sorani7() {
 
 
       </div>
+      <Footer />
     </div>
   );
 }

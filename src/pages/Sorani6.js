@@ -8,6 +8,7 @@ import kurdi from '../images/SeretayiSorani/pola6/kurdi.jpg'
 import zanstpart1 from '../images/SeretayiSorani/pola6/zanstpart1.jpg'
 import zanstpart2 from '../images/SeretayiSorani/pola6/zanstpart2.jpg'
 import komelayeti from '../images/SeretayiSorani/pola6/komelayeti.jpg'
+import Footer from '../components/Footer'
 
 
 
@@ -219,6 +220,7 @@ export default function Sorani6() {
 
 
       </div>
+      <Footer />
     </div>
   );
 }

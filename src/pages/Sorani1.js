@@ -5,6 +5,7 @@ import ayin from '../images/SeretayiSorani/pola1/ayin.jpg'
 import englishactivity from '../images/SeretayiSorani/pola1/englishactivity.jpg'
 import Studentbook from '../images/SeretayiSorani/pola1/Studentbook.jpg'
 import kurdi from '../images/SeretayiSorani/pola1/kurdi.jpg'
+import Footer from '../components/Footer'
 
 
 
@@ -154,6 +155,7 @@ export default function Sorani1() {
 
 
       </div>
+      <Footer />
     </div>
   );
 }

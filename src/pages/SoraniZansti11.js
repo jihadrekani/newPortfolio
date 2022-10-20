@@ -10,6 +10,7 @@ import fizyaqotabi from "../images/SeretayiSorani/zansti11/fizyaqotabi.jpg"
 import zindewerqotabi from "../images/SeretayiSorani/zansti11/zindewerqotabi.jpg"
 import kimyaqotabi from "../images/SeretayiSorani/zansti11/kimyaqotabi.jpg"
 import birkari from "../images/SeretayiSorani/zansti11/birkari.jpg"
+import Footer from '../components/Footer'
 
 
 
@@ -262,6 +263,7 @@ export default function SoraniZansti11() {
 
 
       </div>
+      <Footer />
     </div>
   );
 }

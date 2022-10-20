@@ -2,6 +2,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 import zansti from '../images/poolbadini/zansti.jpg'
 import edebi from '../images/poolbadini/edebi.jpg'
+import Footer from '../components/Footer'
 
 
 
@@ -60,6 +61,7 @@ export default function AmadeyiSorani() {
 
 
       </div>
+      <Footer />
       </div>
   );
 }

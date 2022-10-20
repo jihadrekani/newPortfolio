@@ -9,6 +9,7 @@ import studentbook from '../images/SeretayiSorani/pola9/studentbook.jpg'
 import englishactivity from '../images/SeretayiSorani/pola9/englishactivity.jpg'
 import arabipart1 from '../images/SeretayiSorani/pola9/arabipart1.jpg'
 import arabipart2 from '../images/SeretayiSorani/pola9/arabipart2.jpg'
+import Footer from '../components/Footer'
 
 
 
@@ -255,6 +256,7 @@ export default function sorani9() {
 
 
       </div>
+      <Footer />
     </div>
   );
 }

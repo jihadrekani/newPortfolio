@@ -11,6 +11,7 @@ import birkarirahenan from "../images/SeretayiSorani/zansti12/birkarirahenan.jpg
 import birkariqotabi from "../images/SeretayiSorani/zansti12/birkariqotabi.jpg"
 import arabipart1 from "../images/SeretayiSorani/zansti12/arabipart1.jpg"
 import arabipart2 from "../images/SeretayiSorani/zansti12/arabipart2.jpg"
+import Footer from '../components/Footer'
 
 
 
@@ -284,6 +285,7 @@ export default function SoraniZansti12() {
 
 
       </div>
+      <Footer />
     </div>
   );
 }

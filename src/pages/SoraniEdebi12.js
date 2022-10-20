@@ -10,6 +10,7 @@ import ayin from "../images/SeretayiSorani/edebi12/ayin.jpg"
 import birkari from "../images/SeretayiSorani/edebi12/birkari.jpg"
 import arabipart1 from "../images/SeretayiSorani/edebi12/arabipart1.jpg"
 import arabipart2 from "../images/SeretayiSorani/edebi12/arabipart2.jpg"
+import Footer from '../components/Footer'
 
 
 
@@ -263,6 +264,7 @@ export default function SoraniEdebi12() {
 
 
       </div>
+      <Footer />
     </div>
   );
 }
