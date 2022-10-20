@@ -49,6 +49,7 @@ width: fit-content;
     text-align: center;
 
 }
+
 .social-h1{
     font-size: 30px;
 }
@@ -86,5 +87,15 @@ width: fit-content;
     flex-direction: column;
     width: 100%;
     
+}
+}
+
+@media only screen and (max-width: 400px){
+.home{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+   
+
 }
 }

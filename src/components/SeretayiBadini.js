@@ -17,18 +17,13 @@ export default function SeretayiBadini() {
   return (
     <div className=" mx-auto ">
       <h2 className="text-center   font-bold text-3xl mt-[50px] mb-5 text-sky-900">
-        پەرتوکێن قوتاغا سەرەتایی بادینـی
+        پەرتوکێن قوناغا سەرەتایی بادینـی
       </h2>
 
 
 
 
-
-
-
-
-
-      <div className="container correct-display mx-auto grid  sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 pt-6 gap-8">
+      <div className='grid correct-display  grid-cols-2 xl:grid-cols2 lg:grid-cols-2 md:grid-cols-2 sm:grid-cols-1    container mx-auto space-x-1 mt-[80px]'>
 
         <div className="rounded ">
           <div className="flex justify-center ">

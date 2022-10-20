@@ -7,7 +7,7 @@ export default function Footer ()  {
        
     </div>
     <hr className="my-3 border-gray-200 sm:mx-auto dark:border-gray-700 "/>
-    <span className="block text-sm text-gray-500 sm:text-center dark:text-gray-400">© 2022 <a href="https://flowbite.com/" className="hover:underline">Jihad </a>. All Rights Reserved
+    <span className="block text-sm text-gray-500 sm:text-center dark:text-gray-400 pb-2">© 2022 <a href="https://flowbite.com/" className="hover:underline ">Jihad </a>. All Rights Reserved
     </span>
 </footer>
 </div>

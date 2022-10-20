@@ -8,7 +8,7 @@ export default function Navnji() {
   return (
     <div>
 
-<div className='grid correct-display grid-cols-2 container mx-auto space-x-1 mt-[80px]'>
+<div className='grid correct-display grid-cols-2  mx-auto space-x-1 mt-[80px]'>
 
 <Link to="/NavnjiBadini">
 <div className="flex flex-wrap justify-center">
