@@ -90,7 +90,7 @@ width: fit-content;
 }
 }
 
-@media only screen and (max-width: 400px){
+@media only screen and ( max-width: 400px){
 .home{
     display: flex;
     flex-direction: column;
