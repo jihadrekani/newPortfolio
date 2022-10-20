@@ -2,7 +2,6 @@ import React from "react";
 import { Link } from "react-router-dom";
 import zansti from '../images/poolbadini/zansti.jpg'
 import edebi from '../images/poolbadini/edebi.jpg'
-import Footer from "./Footer";
 
 
 
@@ -58,7 +57,6 @@ export default function AmadeyiBadini() {
 
 
 
-<Footer />
       </div>
       </div>
   );
