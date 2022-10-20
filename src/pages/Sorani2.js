@@ -3,7 +3,7 @@ import zanst from '../images/SeretayiSorani/pola2/zanst.jpg'
 import birkari from '../images/SeretayiSorani/pola2/birkari.jpg'
 import ayin from '../images/SeretayiSorani/pola2/ayin.jpg'
 import englishactivity from '../images/SeretayiSorani/pola2/englishactivity.jpg'
-import Studentbook from '../images/SeretayiSorani/pola2/Studentbook.jpg'
+import studentbook from '../images/SeretayiSorani/pola2/studentbook.jpg'
 import kurdi from '../images/SeretayiSorani/pola2/kurdi.jpg'
 import kurdi1 from '../images/SeretayiSorani/pola2/kurdi1.jpg'
 import kurdi2 from '../images/SeretayiSorani/pola2/kurdi2.jpg'
@@ -90,7 +90,7 @@ export default function Sorani2() {
                 <p  className="bg-gray-300 rounded-t-md py-2 text-center">  Student's Book</p>
                 <img
                   className="p-2 h-[400px]"
-                  src={Studentbook}
+                  src={studentbook}
                   alt=""
                 />
               <div className="p-6 flex items-center justify-center">
