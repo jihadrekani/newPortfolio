@@ -25,5 +25,66 @@ h2, p{
     font-size: 25px;
 }
 
+.center{
+justify-content: center;
+margin-left: auto;
+margin-right: auto;
+width: fit-content;
+}
+
+@media only screen and (max-width: 700px) {
+    .correct-display{
+        display: flex;
+        flex-direction: column;
+        width: 100%;}
+        
+}
+
+@media only screen and (max-width: 600px) {
 
 
+.foot{
+    bottom: 0;
+    margin-top: 100px;
+    text-align: center;
+
+}
+.social-h1{
+    font-size: 30px;
+}
+.correct-display{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    
+}
+
+
+
+}
+@media only screen and (max-width: 500px){
+
+    .foot{
+        bottom: 0;
+        margin-top: 100px;
+        text-align: center;
+    
+    }
+
+.center{
+    display: flex;
+    flex-direction: column;
+    
+    justify-content: center;
+    width: 85%;
+}
+.social-h1{
+    font-size: 25px;
+}
+.correct-display{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    
+}
+}

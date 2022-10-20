@@ -3,10 +3,10 @@ export default function SocialMedia() {
   return (
     // grid xl:grid-cols-6 lg:grid-cols-6 md:grid-cols-4 
     <div className=''>
-<div className="h-screen bg-center bg-cover bg-no-repeat ">
-			<div className="grid place-items-center mx-auto p-20 sm:my-auto bg-white rounded-3xl space-y-10">
-            <h1 className="text-5xl font-semibold text-blue-500">My Social Media </h1>
-    <div className="grid xl:grid-cols-1 lg:grid-cols-6 md:grid-cols-1 sm:grid-cols-1  space-x-3 space-y-5">
+<div className="h-screen bg-center  bg-cover bg-no-repeat ">
+			<div className="grid  place-items-center mx-auto p-20 sm:my-auto bg-white rounded-3xl space-y-10">
+            <h1 className="text-5xl social-h1 font-semibold text-blue-500">My Social Media </h1>
+    <div className="grid  xl:grid-cols-1 lg:grid-cols-6 md:grid-cols-1 sm:grid-cols-1  space-x-3 space-y-5">
 
       
     <a href="https://github.com/jihadrekani"  className="bg-[#333] px-4 py-2 font-semibold text-white inline-flex items-center space-x-2 rounded">

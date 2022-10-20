@@ -7,7 +7,7 @@ export default function Amadeyi() {
   return (
     <div>
 
-<div className='grid grid-cols-2 container mx-auto space-x-1 mt-[80px]'>
+<div className='grid correct-display grid-cols-2 container mx-auto space-x-1 mt-[80px]'>
 
 <Link to="/AmadeyiBadini">
 <div className="flex flex-wrap justify-center">
