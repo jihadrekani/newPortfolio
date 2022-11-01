@@ -12,7 +12,8 @@ import Footer from "./Footer";
 export default function Home() {
   return (
     <div className="">
-      <h2 className="text-center font-bold text-3xl mt-[50px] mb-5 text-sky-900">
+      <div className="grid h-screen place-items-center" >
+      <h2 className="text-center  font-bold text-3xl mt-[50px] mb-5 text-sky-900">
       قوناغێ بهەلبژێرە :
       </h2>
 
@@ -82,6 +83,7 @@ export default function Home() {
       </div>
       <SocialMedia />
       <Footer />
+      </div>
       </div>
   );
 }

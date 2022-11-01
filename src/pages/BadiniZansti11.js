@@ -186,7 +186,7 @@ export default function BadiniZansti11() {
                   alt=""
                 />
               <div className="p-6 flex items-center justify-center">
-                <a href="https://www.bgprogram.org/download.aspx?id=1483" 
+                <a href="https://www.bgprogram.org/download.aspx?id=1484" 
                 
                   className=" inline-block px-6 py-2.5 bg-orange-700 text-white font-medium text-xs leading-tight uppercase rounded shadow-md hover:bg-orange-600 hover:shadow-lg focus:bg-orange-500 focus:shadow-lg focus:outline-none focus:ring-0 active:bg-orange-300 active:shadow-lg transition duration-150 ease-in-out"
                 >
